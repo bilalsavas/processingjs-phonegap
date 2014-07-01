@@ -2,13 +2,13 @@
 <widget id="com.bilaltesting.theta" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ThetaCircle</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Theta Circle Frame Rate Test.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="bilal@savas.com.tr" href="http://phonegap.com">
+        Bilal Savaş
     </author>
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="3.5.0" />
+    <preference name="phonegap-version" value="3.3.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
